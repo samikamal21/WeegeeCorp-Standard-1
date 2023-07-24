@@ -11,9 +11,13 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "WeegeeCorp Standard 1",
-  "version": "1.0",
   "author": "",
   "files": [
+    {
+      "projectID": 317780,
+      "fileID": 4658337,
+      "required": true
+    },
     {
       "projectID": 658587,
       "fileID": 4418150,
@@ -40,6 +44,11 @@
       "required": true
     },
     {
+      "projectID": 720811,
+      "fileID": 4491338,
+      "required": true
+    },
+    {
       "projectID": 433760,
       "fileID": 4065548,
       "required": true
@@ -60,8 +69,18 @@
       "required": true
     },
     {
+      "projectID": 411813,
+      "fileID": 4310526,
+      "required": true
+    },
+    {
       "projectID": 688231,
       "fileID": 4630216,
+      "required": true
+    },
+    {
+      "projectID": 401648,
+      "fileID": 4030572,
       "required": true
     },
     {
@@ -82,6 +101,11 @@
     {
       "projectID": 513688,
       "fileID": 4656866,
+      "required": true
+    },
+    {
+      "projectID": 579295,
+      "fileID": 4500512,
       "required": true
     },
     {
@@ -230,6 +254,11 @@
       "required": true
     },
     {
+      "projectID": 250398,
+      "fileID": 4050342,
+      "required": true
+    },
+    {
       "projectID": 238222,
       "fileID": 4615176,
       "required": true
@@ -262,6 +291,11 @@
     {
       "projectID": 416379,
       "fileID": 4426553,
+      "required": true
+    },
+    {
+      "projectID": 693418,
+      "fileID": 4658963,
       "required": true
     },
     {
@@ -300,6 +334,11 @@
       "required": true
     },
     {
+      "projectID": 342584,
+      "fileID": 4639340,
+      "required": true
+    },
+    {
       "projectID": 631403,
       "fileID": 4031228,
       "required": true
@@ -327,6 +366,11 @@
     {
       "projectID": 421649,
       "fileID": 4441684,
+      "required": true
+    },
+    {
+      "projectID": 527023,
+      "fileID": 4413888,
       "required": true
     }
   ],

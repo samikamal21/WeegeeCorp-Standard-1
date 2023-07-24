@@ -30,6 +30,7 @@ mode = "fancy"
 				skeleton = true
 				bat = true
 				husk = true
+				frog = true
 				hoglin = true
 				rabbit = true
 				armor_stand = true
@@ -43,6 +44,7 @@ mode = "fancy"
 				piglin_brute = true
 				item_frame = true
 				horse = true
+				ender_dragon = true
 				glow_squid = true
 				glow_item_frame = false
 				squid = true
@@ -85,6 +87,7 @@ mode = "fancy"
 			[light_sources.settings.entities.friendsandfoes]
 				glare = true
 				copper_golem = true
+				moobloom = true
 				mauler = true
 
 			[light_sources.settings.entities.cobblemon]
@@ -95,5 +98,6 @@ mode = "fancy"
 				grayling_butterfly = true
 				aponi_butterfly = true
 				red_applefly_butterfly = true
+				swamp_hopper_butterfly = true
 				painted_panther_butterfly = true
 
