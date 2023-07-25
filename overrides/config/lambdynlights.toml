@@ -28,6 +28,7 @@ mode = "fancy"
 				magma_cube = true
 				pig = true
 				skeleton = true
+				llama = true
 				bat = true
 				husk = true
 				frog = true
