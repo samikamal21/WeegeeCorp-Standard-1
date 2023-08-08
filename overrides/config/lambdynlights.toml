@@ -24,6 +24,7 @@ mode = "fancy"
 			[light_sources.settings.entities.minecraft]
 				bee = true
 				axolotl = true
+				egg = true
 				arrow = true
 				cow = true
 				magma_cube = true
@@ -41,6 +42,7 @@ mode = "fancy"
 				experience_orb = true
 				dolphin = true
 				item = true
+				stray = true
 				turtle = true
 				salmon = true
 				wither_skeleton = true
@@ -49,6 +51,7 @@ mode = "fancy"
 				ocelot = true
 				item_frame = true
 				horse = true
+				phantom = true
 				ender_dragon = true
 				glow_squid = true
 				glow_item_frame = false
@@ -64,6 +67,7 @@ mode = "fancy"
 				tropical_fish = true
 				fox = true
 				slime = true
+				pillager = true
 				iron_golem = true
 				zombified_piglin = true
 				piglin = true
@@ -73,6 +77,7 @@ mode = "fancy"
 				sheep = true
 				player = true
 				pufferfish = true
+				potion = true
 				villager = true
 				zombie_villager = true
 				tnt_minecart = true
@@ -108,4 +113,7 @@ mode = "fancy"
 				swamp_hopper_butterfly = true
 				painted_panther_butterfly = true
 				swallow_tail_butterfly = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
 

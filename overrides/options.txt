@@ -14,7 +14,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-fullscreen:true
+fullscreen:false
 bobView:false
 toggleCrouch:false
 toggleSprint:false
@@ -37,8 +37,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","file/Cobblemon_-_Insurgence_v1.0.zip","Fabric Mods","minecraft/supporteatinganimation"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","file/Cobblemon_-_Insurgence_v1.0.zip","Fabric Mods","minecraft/supporteatinganimation","file/Aies Paradox Pack 6.1.zip","file/AlolaMons_v1.2.zip","file/Buizel_and_Floatzel.zip","file/CobblemonMissingRecipes-1.0.zip","file/Craftian_Forms_Data_v1.3b.zip","file/Craftonian Forms [v1.2].zip","file/Dracomon_0.6.5_No_Salamence.zip","file/Extra Eeveelutions [Datapack] 1.0.3.zip","file/Gravelmon 1.1.1.zip","file/Legendary_Encounters!.zip","file/Leos_ReimaginedMons-1.0.2.zip","file/LostMons [Cobblemon] v0.4.3.zip","file/Lucario_Overhaul_Assets_v1.1.1.zip","file/MissingMons [v1.4].zip","file/Poké Costume 1.5.zip","file/Pokémon Fishing v1.1.4 [1.19.2-v1.3+].zip","file/RestlessSpirits.zip","file/Shinier Shinies v1.1 [1.19.2-v1.3+].zip","file/Tentaquil_Datapack_v1.2.zip","file/lugia_v1.0.zip"]
+incompatibleResourcePacks:["file/AlolaMons_v1.2.zip","file/Buizel_and_Floatzel.zip","file/CobblemonMissingRecipes-1.0.zip","file/Legendary_Encounters!.zip","file/Leos_ReimaginedMons-1.0.2.zip","file/LostMons [Cobblemon] v0.4.3.zip","file/MissingMons [v1.4].zip","file/Poké Costume 1.5.zip","file/Pokémon Fishing v1.1.4 [1.19.2-v1.3+].zip","file/RestlessSpirits.zip","file/Shinier Shinies v1.1 [1.19.2-v1.3+].zip"]
 lastServer:localhost
 lang:en_us
 soundDevice:""
@@ -85,7 +85,7 @@ key_key.back:key.keyboard.s
 key_key.right:key.keyboard.d
 key_key.jump:key.keyboard.space
 key_key.sneak:key.keyboard.left.shift
-key_key.sprint:key.keyboard.left.control
+key_key.sprint:key.keyboard.r
 key_key.drop:key.keyboard.q
 key_key.inventory:key.keyboard.e
 key_key.chat:key.keyboard.t
@@ -121,7 +121,7 @@ key_key.cobblemon.summary:key.keyboard.n
 key_key.cobblemon.downshiftparty:key.keyboard.down
 key_key.cobblemon.upshiftparty:key.keyboard.up
 key_key.cobblemon.throwpartypokemon:key.keyboard.c
-key_keybinds.combatroll.roll:key.keyboard.r
+key_keybinds.combatroll.roll:key.keyboard.left.control
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
 key_key.travelersbackpack.inventory:key.keyboard.b
