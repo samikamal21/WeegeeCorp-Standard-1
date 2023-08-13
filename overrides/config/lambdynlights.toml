@@ -89,6 +89,13 @@ mode = "fancy"
 				cod = true
 				spider = true
 
+			[light_sources.settings.entities.dragonloot]
+				dragon_trident = true
+
+			[light_sources.settings.entities.smallships]
+				galley = true
+				brigg = true
+
 			[light_sources.settings.entities.betternether]
 				firefly = true
 				hydrogen_jellyfish = true
