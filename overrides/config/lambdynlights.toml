@@ -22,6 +22,7 @@ mode = "fancy"
 		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
+				zombie_horse = true
 				bee = true
 				axolotl = true
 				egg = true
@@ -44,22 +45,29 @@ mode = "fancy"
 				item = true
 				stray = true
 				turtle = true
+				shulker = true
 				salmon = true
 				wither_skeleton = true
 				wandering_trader = true
 				piglin_brute = true
 				ocelot = true
+				furnace_minecart = true
 				item_frame = true
 				horse = true
+				vindicator = true
 				phantom = true
+				minecart = true
 				ender_dragon = true
 				glow_squid = true
+				warden = true
 				glow_item_frame = false
 				squid = true
+				shulker_bullet = true
 				parrot = true
 				creeper = true
 				lightning_bolt = true
 				enderman = true
+				dragon_fireball = true
 				chicken = true
 				trader_llama = true
 				donkey = true
@@ -70,17 +78,26 @@ mode = "fancy"
 				pillager = true
 				iron_golem = true
 				zombified_piglin = true
+				area_effect_cloud = true
 				piglin = true
 				blaze = true
+				endermite = true
 				cat = true
 				zombie = true
+				ender_pearl = true
+				ghast = true
 				sheep = true
+				fireball = true
 				player = true
 				pufferfish = true
 				potion = true
+				eye_of_ender = true
 				villager = true
+				wolf = true
+				skeleton_horse = true
 				zombie_villager = true
 				tnt_minecart = true
+				boat = true
 				strider = true
 				polar_bear = true
 				painting = true
@@ -98,10 +115,24 @@ mode = "fancy"
 
 			[light_sources.settings.entities.betternether]
 				firefly = true
+				chair = true
 				hydrogen_jellyfish = true
+				skull = true
+				naga = true
+
+			[light_sources.settings.entities.immersive_aircraft]
+				biplane = true
 
 			[light_sources.settings.entities.create]
+				contraption = true
 				super_glue = true
+
+			[light_sources.settings.entities.betterend]
+				dragonfly = true
+				shadow_walker = true
+				cubozoa = true
+				end_slime = true
+				end_fish = true
 
 			[light_sources.settings.entities.friendsandfoes]
 				glare = true
