@@ -36,8 +36,8 @@ graphicsMode:1
 ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
-renderClouds:"true"
-resourcePacks:["vanilla","file/Cobblemon_-_Insurgence_v1.0.zip","Fabric Mods","minecraft/supporteatinganimation","file/Aies Paradox Pack 6.1.zip","file/AlolaMons_v1.2.zip","file/Buizel_and_Floatzel.zip","file/CobblemonMissingRecipes-1.0.zip","file/Craftonian Forms [v1.2].zip","file/Dracomon_0.6.5_No_Salamence.zip","file/Gravelmon 1.1.1.zip","file/Legendary_Encounters!.zip","file/Leos_ReimaginedMons-1.0.2.zip","file/LostMons [Cobblemon] v0.4.3.zip","file/Lucario_Overhaul_Assets_v1.1.1.zip","file/MissingMons [v1.4].zip","file/Poké Costume 1.5.zip","file/Pokémon Fishing v1.1.4 [1.19.2-v1.3+].zip","file/RestlessSpirits.zip","file/Shinier Shinies v1.1 [1.19.2-v1.3+].zip","file/lugia_v1.0.zip","file/end.zip"]
+renderClouds:"false"
+resourcePacks:["vanilla","file/Cobblemon_-_Insurgence_v1.0.zip","Fabric Mods","minecraft/supporteatinganimation","file/Aies Paradox Pack 6.1.zip","file/AlolaMons_v1.2.zip","file/Buizel_and_Floatzel.zip","file/CobblemonMissingRecipes-1.0.zip","file/Craftonian Forms [v1.2].zip","file/Dracomon_0.6.5_No_Salamence.zip","file/Gravelmon 1.1.1.zip","file/Legendary_Encounters!.zip","file/Leos_ReimaginedMons-1.0.2.zip","file/LostMons [Cobblemon] v0.4.3.zip","file/Lucario_Overhaul_Assets_v1.1.1.zip","file/MissingMons [v1.4].zip","file/Poké Costume 1.5.zip","file/Pokémon Fishing v1.1.4 [1.19.2-v1.3+].zip","file/RestlessSpirits.zip","file/Shinier Shinies v1.1 [1.19.2-v1.3+].zip","file/lugia_v1.0.zip","file/end.zip","file/Tentaquil_Assets_v1.2.zip","file/Craftian_Forms_Assets_v1.3b.zip","Steam \u0027n Rails Legacy Semaphores","Steam \u0027n Rails Green Signals","Create Legacy Copper"]
 incompatibleResourcePacks:["file/AlolaMons_v1.2.zip","file/Buizel_and_Floatzel.zip","file/CobblemonMissingRecipes-1.0.zip","file/Legendary_Encounters!.zip","file/Leos_ReimaginedMons-1.0.2.zip","file/LostMons [Cobblemon] v0.4.3.zip","file/MissingMons [v1.4].zip","file/Poké Costume 1.5.zip","file/Pokémon Fishing v1.1.4 [1.19.2-v1.3+].zip","file/RestlessSpirits.zip","file/Shinier Shinies v1.1 [1.19.2-v1.3+].zip"]
 lastServer:localhost
 lang:en_us
@@ -125,10 +125,38 @@ key_key.cobblemon.throwpartypokemon:key.keyboard.f
 key_keybinds.combatroll.roll:key.keyboard.c
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
+key_key.immersive_aircraft.multi_control_left:key.keyboard.a
+key_key.immersive_aircraft.multi_control_right:key.keyboard.d
+key_key.immersive_aircraft.multi_control_forward:key.keyboard.w
+key_key.immersive_aircraft.multi_control_backward:key.keyboard.s
+key_key.immersive_aircraft.multi_control_up:key.keyboard.space
+key_key.immersive_aircraft.multi_control_down:key.keyboard.left.shift
+key_key.immersive_aircraft.multi_control_pull:key.keyboard.s
+key_key.immersive_aircraft.multi_control_push:key.keyboard.w
+key_key.immersive_aircraft.multi_dismount:key.keyboard.r
+key_key.immersive_aircraft.multi_boost:key.keyboard.b
 key_key.smallships.ship_sail:key.keyboard.r
 key_key.travelersbackpack.inventory:key.keyboard.b
 key_key.travelersbackpack.toggle_tank:key.keyboard.n
 key_key.travelersbackpack.cycle_tool:key.keyboard.end
+key_key.wands.wand_action:key.keyboard.h
+key_key.wands.wand_fill_circle:key.keyboard.k
+key_key.wands.wand_palette_mode:key.keyboard.p
+key_key.wands.area_diagonal_spread:key.keyboard.comma
+key_key.wands.wand_undo:key.keyboard.u
+key_key.wands.toggle_stair_slab:key.keyboard.period
+key_key.wands.clear_wand:key.keyboard.c
+key_key.wands.wand_invert:key.keyboard.i
+key_key.wands.m_dec:key.keyboard.left
+key_key.wands.wand_menu:key.keyboard.y
+key_key.wands.n_dec:key.keyboard.down
+key_key.wands.wand_mode:key.keyboard.v
+key_key.wands.wand_orientation:key.keyboard.x
+key_key.wands.n_inc:key.keyboard.up
+key_key.wands.m_inc:key.keyboard.right
+key_key.wands.palette_menu:key.keyboard.j
+key_key.wands.inc_sel_block:key.keyboard.z
+key_key.wands.wand_rotate:key.keyboard.r
 key_key.waila.config:key.keyboard.unknown
 key_key.waila.show_overlay:key.keyboard.unknown
 key_key.waila.toggle_liquid:key.keyboard.unknown
@@ -163,7 +191,7 @@ key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_iris.keybind.reload:key.keyboard.grave.accent
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
-soundCategory_master:0.16059603
+soundCategory_master:0.35430464
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

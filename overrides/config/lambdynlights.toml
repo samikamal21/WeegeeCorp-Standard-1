@@ -38,6 +38,7 @@ mode = "fancy"
 				hoglin = true
 				experience_bottle = true
 				rabbit = true
+				firework_rocket = true
 				armor_stand = true
 				drowned = true
 				experience_orb = true
@@ -58,6 +59,8 @@ mode = "fancy"
 				phantom = true
 				minecart = true
 				ender_dragon = true
+				evoker = true
+				llama_spit = true
 				glow_squid = true
 				warden = true
 				glow_item_frame = false
@@ -69,6 +72,7 @@ mode = "fancy"
 				enderman = true
 				dragon_fireball = true
 				chicken = true
+				ravager = true
 				trader_llama = true
 				donkey = true
 				chest_minecart = true
@@ -90,7 +94,9 @@ mode = "fancy"
 				fireball = true
 				player = true
 				pufferfish = true
+				illusioner = true
 				potion = true
+				trident = true
 				eye_of_ender = true
 				villager = true
 				wolf = true
@@ -98,6 +104,7 @@ mode = "fancy"
 				zombie_villager = true
 				tnt_minecart = true
 				boat = true
+				small_fireball = true
 				strider = true
 				polar_bear = true
 				painting = true
@@ -124,6 +131,7 @@ mode = "fancy"
 				biplane = true
 
 			[light_sources.settings.entities.create]
+				stationary_contraption = true
 				contraption = true
 				super_glue = true
 
@@ -132,6 +140,7 @@ mode = "fancy"
 				shadow_walker = true
 				cubozoa = true
 				end_slime = true
+				silk_moth = true
 				end_fish = true
 
 			[light_sources.settings.entities.friendsandfoes]
@@ -139,6 +148,7 @@ mode = "fancy"
 				copper_golem = true
 				moobloom = true
 				mauler = true
+				iceologer = true
 
 			[light_sources.settings.entities.cobblemon]
 				empty_pokeball = true
